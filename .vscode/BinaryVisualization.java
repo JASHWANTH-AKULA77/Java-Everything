@@ -3,7 +3,7 @@ public class BinaryVisualization {
     public static void main(String[] args) {
         int a=4;
         int b=7;
-        int result=a|b;
+        int res=a|b;
         String s1 = Integer.toBinaryString(a);
         String s2 = Integer.toBinaryString(b);
         String op = Integer.toBinaryString(result);
