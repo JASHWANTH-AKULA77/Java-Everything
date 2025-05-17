@@ -4,5 +4,5 @@ public class booleanExample {
         int b = 3;
         System.out.println(a+b);
 
-    }a
+    }
 }
