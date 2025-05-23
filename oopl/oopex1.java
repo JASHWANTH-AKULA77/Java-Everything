@@ -8,6 +8,7 @@ public class oopex1 {
 }
 class student{
     void study(){
-        System.out.println("Student is studying");
+        System.out.println("Student will be studying");
     }
 }
+
