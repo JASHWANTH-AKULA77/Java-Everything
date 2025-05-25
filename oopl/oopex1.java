@@ -12,7 +12,7 @@ class student{
         System.out.println("Student will be studying");
     }
     void practice(){
-        System.out.println("Student is praciting");
+        System.out.prinit tln("Student is praciting");
     }
 }
 
