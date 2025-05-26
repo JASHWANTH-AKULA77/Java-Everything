@@ -1,4 +1,3 @@
-package oopl;
 
 public class oopex1 {
     public static void main(String[] args) {
@@ -12,7 +11,7 @@ class student{
         System.out.println("Student will be studying");
     }
     void practice(){
-        System.out.prinit tln("Student is praciting");
+        System.out.print("Student is praciting");
     }
 }
 

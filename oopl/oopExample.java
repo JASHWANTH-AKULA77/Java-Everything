@@ -9,6 +9,9 @@ System.out.println("Studying");
 void practice(){
     System.out.println("Practicing");
 }
+void playing(){
+    System.out.println("Student is playing");
+}
     }
     public class oopExample {
     public static void main(String[] args) {
