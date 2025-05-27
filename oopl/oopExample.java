@@ -11,6 +11,10 @@ void practice(){
 }
 void playing(){
     System.out.println("Student is playing");
+
+}
+void eat(){
+    System.out.println("Student is eating");
 }
     }
     public class oopExample {
