@@ -14,7 +14,7 @@ void playing(){
 
 }
 void eat(){
-    System.out.println("Student is eating");
+    System.out.println("Student will eat if they get hungry");
 }
     }
     public class oopExample {
@@ -29,5 +29,6 @@ void eat(){
         System.out.println(s1.marks);
         s1.study();
         s1.practice();
+        s1.eat();
     }
 }
