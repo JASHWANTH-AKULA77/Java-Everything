@@ -17,5 +17,4 @@ class company{
         System.out.println("Mangement will be functional");
     }
 }
-///oops example
-//oops
+//oops example
