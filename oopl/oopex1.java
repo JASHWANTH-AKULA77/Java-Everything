@@ -3,7 +3,7 @@ public class oopex1 {
     public static void main(String[] args) {
     student s1=new student();
     s1.study();
-    s1.practice();
+    s1.practice();//object+function calling
     }
 }
 class student{
