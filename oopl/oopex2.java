@@ -6,7 +6,7 @@ public class oopex2 {
         n1.mangement();
    } 
 }
-class company{
+class company{ // Class 
     void employee(){
         System.out.println("Employees");
     }
@@ -17,4 +17,4 @@ class company{
         System.out.println("Mangement will be functional");
     }
 }
-//oops example
+//oops Example
