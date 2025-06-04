@@ -6,7 +6,7 @@ public class oopex2 {
         n1.mangement();
    } 
 }
-class company{ // Class 
+class company{ // Class creation
     void employee(){
         System.out.println("Employees");
     }
