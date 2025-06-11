@@ -13,4 +13,5 @@ public class BinaryVisualization {
         System.out.println(result);
 }
                      }
-//binary number visulaization
+
+//binary number 
