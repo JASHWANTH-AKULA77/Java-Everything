@@ -32,3 +32,4 @@ void eat(){
         s1.eat();
     }
 }
+//hii
