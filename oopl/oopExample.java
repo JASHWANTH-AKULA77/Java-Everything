@@ -32,4 +32,4 @@ void eat(){
         s1.eat();
     }
 }
-//oop Example Program
+//oop Example
