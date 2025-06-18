@@ -14,5 +14,5 @@ public class BinaryVisualization {
 }
                      }
 
-//binary number visualiazation
+//binary number visualization
 
