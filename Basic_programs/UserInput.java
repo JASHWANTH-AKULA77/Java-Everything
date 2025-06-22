@@ -8,3 +8,4 @@ public class UserInput {
         System.out.println("Welcome, " + name + "! Have a great day ");
     }
 }
+//UserInput Program
