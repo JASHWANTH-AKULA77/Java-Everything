@@ -1,4 +1,4 @@
-class student{
+class Student{
 int rollno;
 String name;
 int marks;
@@ -32,4 +32,4 @@ void eat(){
         s1.eat();
     }
 }
-//oop Example
+//oops Example
