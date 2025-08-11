@@ -31,5 +31,5 @@ void eat(){
         s1.practice();
         s1.eat();
     }
-}
+    }
 //oops Example
